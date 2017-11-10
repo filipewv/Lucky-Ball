@@ -111,6 +111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 150bb3ba44ff11e4da7063a5f287c0c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  collideParticle: {fileID: 1000011190285628, guid: beb3acff7ab73944fb8f470f24d74ed3,
+    type: 2}
 --- !u!136 &136201005621348230
 CapsuleCollider:
   m_ObjectHideFlags: 1
